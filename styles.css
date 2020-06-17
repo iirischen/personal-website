@@ -9,7 +9,7 @@ h1 {
   color: #6666ff;
   font-size: 3em;
   padding: 30px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #home-img {
@@ -27,11 +27,6 @@ nav {
   margin: 0px;
 }
 
-@font-face {
-    font-family: Arimo;
-    src: url(https://cdn.glitch.com/689f22df-69a0-4f26-a811-0aad35622b6c%2FArimo.zip?v=1592371077084);
-}
-
 * {
     margin: 0px;
     padding: 0px;
@@ -45,7 +40,7 @@ nav {
 p {
   font-size: 2em;
   margin: 50px;
-  font-family: Arimo;
+  font-family: 'Archivo', sans-serif;
 }
 
 
