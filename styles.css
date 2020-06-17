@@ -11,16 +11,15 @@ h1 {
 #home-img {
   border-radius: 15%;
   width: 300px
-  
 }
 
 nav {
-  border-style: 
+  text-align: left;
 }
-/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
-
-
+p {border-style: solid;
+  border-width: 2px;
+}
 
 /*TODO: Use the * selector to reset the margin and padding to 0px*/
 * {
