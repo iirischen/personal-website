@@ -22,8 +22,8 @@ nav {
 }
 
 .header-down {
-  border: 2px solid;
-  margin: 40px;
+  border: 5px solid;
+  margin: 15px;
 }
 
 @font-face {
@@ -34,11 +34,15 @@ nav {
 @font-face {
     font-family: Montserrat;
     src: url(https://cdn.glitch.com/689f22df-69a0-4f26-a811-0aad35622b6c%2FMontserrat.zip?v=1592371467638);
+}
+
 * {
     margin: 0px;
     padding: 10px;
     }
+
 .intro-text {
+  font-size: 2em;
   
 }
 
@@ -48,6 +52,7 @@ nav {
 p {
   font-size: 2em;
   margin: 50px;
+  font-family: Arimo;
 }
 
 
