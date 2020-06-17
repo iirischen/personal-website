@@ -1,14 +1,17 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #99ccff; 
+ background-color: #ff99cc; 
+  text-align: center;
 }
 
 h1 {
   color: #6666ff;
 }
 
-img {
-  width: 400px
+#home-img {
+  border-radius: 15%;
+  width: 200px
+  
 }
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
